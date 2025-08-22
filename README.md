@@ -1,7 +1,12 @@
-# 🌦️ Weather App
+# 🌦️ SkyCast
 
 A simple and interactive **Weather Application** built with **HTML, CSS, and JavaScript**.  
 It fetches live weather data from the [OpenWeatherMap API](https://openweathermap.org/) and shows current weather, forecast, and local time for any city.
+
+---
+## 🌦️ App Preview
+
+[![SkyCast Preview](preview.png)](https://arpankhare-63.github.io/Weather-App/)
 
 ---
 
@@ -27,6 +32,5 @@ It fetches live weather data from the [OpenWeatherMap API](https://openweatherma
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/weather-app.git
-cd weather-app
-# SkyCast
+git clone https://github.com/YOUR-USERNAME/skycast.git
+cd skycast
